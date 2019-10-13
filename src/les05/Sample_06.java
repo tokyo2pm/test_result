@@ -3,7 +3,7 @@ package les05;
 public class Sample_06 {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		// 中間試験と期末試験の点数によってその学期の成績を出力するプログラム
 
 		int mid = 71;
 		int end = 70;
